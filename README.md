@@ -2,7 +2,7 @@
 
 ## Description
 
-**rag_test** is a Python-based project designed to [briefly describe the purpose of your project]. It includes scripts for data ingestion, configuration management, and application deployment. This repository serves as a foundation for building and deploying [mention the type of application, e.g., web applications, data processing pipelines, etc.].
+**rag_test** just a basic rag code for easy implementation whenever necessary, if you find useful dont heistate to star and use it 😉. It includes scripts for data ingestion, configuration management, and application deployment. This repository serves as a foundation for building and deploying RAG (Retrievel Augmented Generation).
 
 ## Table of Contents
 
